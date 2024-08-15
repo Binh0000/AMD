@@ -1,0 +1,82 @@
+﻿{
+  "GlobalConfiguration": {
+    // where user can access the UI and backend services
+    "BaseUrl": "http://localhost:8888"
+  },
+  "Routes": [
+    //Url shortener router
+    {
+      "UpstreamPathTemplate": "/shortener", //
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/Shortener",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 1109
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/shortener", //
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamPathTemplate": "/api/Shortener",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 1109
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/shortener/{shortUrl}", //
+      "UpstreamHttpMethod": [ "Get" ],
+      "DownstreamPathTemplate": "/api/Shortener/{shortUrl}",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 1109
+        }
+      ]
+    }
+    // // Mobile router
+    // {
+    //   "UpstreamPathTemplate": "/mobiles",
+    //   "UpstreamHttpMethod": [ "Get" ],
+    //   "DownstreamPathTemplate": "/api/Mobiles",
+    //   "DownstreamScheme": "https",
+    //   "DownstreamHostAndPorts": [
+    //     {
+    //       "Host": "localhost",
+    //       "Port": 5678
+    //     }
+    //   ]
+    // },
+    // {
+    //   "UpstreamPathTemplate": "/mobiles/{id}",
+    //   "UpstreamHttpMethod": [ "Get" ],
+    //   "DownstreamPathTemplate": "/api/Mobiles/{id}",
+    //   "DownstreamScheme": "https",
+    //   "DownstreamHostAndPorts": [
+    //     {
+    //       "Host": "localhost",
+    //       "Port": 5678
+    //     }
+    //   ]
+    // },
+    // {
+    //   "UpstreamPathTemplate": "/mobiles",
+    //   "UpstreamHttpMethod": [ "Post" ],
+    //   "DownstreamPathTemplate": "/api/Mobiles",
+    //   "DownstreamScheme": "https",
+    //   "DownstreamHostAndPorts": [
+    //     {
+    //       "Host": "localhost",
+    //       "Port": 5678
+    //     }
+    //   ]
+    //}
+  ]
+}

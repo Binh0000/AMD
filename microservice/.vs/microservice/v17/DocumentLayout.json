@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\microservice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{399BEBEE-7473-4F07-87B5-FAFA4BB05E25}|react-client\\react-client.esproj|c:\\users\\phian_\\desktop\\greenwich\\semester 6\\amd201\\coursework\\coursework\\microservice\\react-client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{399BEBEE-7473-4F07-87B5-FAFA4BB05E25}|react-client\\react-client.esproj|solutionrelative:react-client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DF590E-D21F-4CD6-8BA9-A1D7D45A8122}|Shortly\\Shortly.csproj|c:\\users\\phian_\\desktop\\greenwich\\semester 6\\amd201\\coursework\\coursework\\microservice\\shortly\\controllers\\shortenercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DF590E-D21F-4CD6-8BA9-A1D7D45A8122}|Shortly\\Shortly.csproj|solutionrelative:shortly\\controllers\\shortenercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399BEBEE-7473-4F07-87B5-FAFA4BB05E25}|react-client\\react-client.esproj|c:\\users\\phian_\\desktop\\greenwich\\semester 6\\amd201\\coursework\\coursework\\microservice\\react-client\\src\\redirecthandler.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{399BEBEE-7473-4F07-87B5-FAFA4BB05E25}|react-client\\react-client.esproj|solutionrelative:react-client\\src\\redirecthandler.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DF590E-D21F-4CD6-8BA9-A1D7D45A8122}|Shortly\\Shortly.csproj|c:\\users\\phian_\\desktop\\greenwich\\semester 6\\amd201\\coursework\\coursework\\microservice\\shortly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DF590E-D21F-4CD6-8BA9-A1D7D45A8122}|Shortly\\Shortly.csproj|solutionrelative:shortly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399BEBEE-7473-4F07-87B5-FAFA4BB05E25}|react-client\\react-client.esproj|c:\\users\\phian_\\desktop\\greenwich\\semester 6\\amd201\\coursework\\coursework\\microservice\\react-client\\src\\shortly.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{399BEBEE-7473-4F07-87B5-FAFA4BB05E25}|react-client\\react-client.esproj|solutionrelative:react-client\\src\\shortly.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399BEBEE-7473-4F07-87B5-FAFA4BB05E25}|react-client\\react-client.esproj|c:\\users\\phian_\\desktop\\greenwich\\semester 6\\amd201\\coursework\\coursework\\microservice\\react-client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{399BEBEE-7473-4F07-87B5-FAFA4BB05E25}|react-client\\react-client.esproj|solutionrelative:react-client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 49,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\microservice\\react-client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "react-client\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\microservice\\react-client\\src\\main.jsx",
+              "RelativeToolTip": "react-client\\src\\main.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-08-15T14:35:31.483Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shortly.jsx",
+              "DocumentMoniker": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\microservice\\react-client\\src\\Shortly.jsx",
+              "RelativeDocumentMoniker": "react-client\\src\\Shortly.jsx",
+              "ToolTip": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\microservice\\react-client\\src\\Shortly.jsx",
+              "RelativeToolTip": "react-client\\src\\Shortly.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-08-15T14:35:29.522Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\microservice\\Shortly\\Program.cs",
+              "RelativeDocumentMoniker": "Shortly\\Program.cs",
+              "ToolTip": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\microservice\\Shortly\\Program.cs",
+              "RelativeToolTip": "Shortly\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T15:16:35.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\microservice\\react-client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "react-client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\microservice\\react-client\\src\\App.jsx",
+              "RelativeToolTip": "react-client\\src\\App.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-08-15T14:45:54.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShortenerController.cs",
+              "DocumentMoniker": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\microservice\\Shortly\\Controllers\\ShortenerController.cs",
+              "RelativeDocumentMoniker": "Shortly\\Controllers\\ShortenerController.cs",
+              "ToolTip": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\microservice\\Shortly\\Controllers\\ShortenerController.cs",
+              "RelativeToolTip": "Shortly\\Controllers\\ShortenerController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAwEoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T14:43:30.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RedirectHandler.jsx",
+              "DocumentMoniker": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\microservice\\react-client\\src\\RedirectHandler.jsx",
+              "RelativeDocumentMoniker": "react-client\\src\\RedirectHandler.jsx",
+              "ToolTip": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\microservice\\react-client\\src\\RedirectHandler.jsx",
+              "RelativeToolTip": "react-client\\src\\RedirectHandler.jsx",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-08-15T14:36:54.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

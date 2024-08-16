@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "api_gateway", "api-gateway\
 EndProject
 Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "react-client", "react-client\react-client.esproj", "{399BEBEE-7473-4F07-87B5-FAFA4BB05E25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shortly", "Shortly\Shortly.csproj", "{64DF590E-D21F-4CD6-8BA9-A1D7D45A8122}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shortly", "Shortly\Shortly.csproj", "{64DF590E-D21F-4CD6-8BA9-A1D7D45A8122}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

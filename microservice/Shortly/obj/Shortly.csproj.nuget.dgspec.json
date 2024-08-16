@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\microservice\\Shortly\\Shortly.csproj": {}
+    "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\AMD\\microservice\\Shortly\\Shortly.csproj": {}
   },
   "projects": {
-    "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\microservice\\Shortly\\Shortly.csproj": {
+    "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\AMD\\microservice\\Shortly\\Shortly.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\microservice\\Shortly\\Shortly.csproj",
+        "projectUniqueName": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\AMD\\microservice\\Shortly\\Shortly.csproj",
         "projectName": "Shortly",
-        "projectPath": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\microservice\\Shortly\\Shortly.csproj",
+        "projectPath": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\AMD\\microservice\\Shortly\\Shortly.csproj",
         "packagesPath": "C:\\Users\\phian_\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\microservice\\Shortly\\obj\\",
+        "outputPath": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\AMD\\microservice\\Shortly\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

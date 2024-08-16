@@ -1,3 +1,4 @@
 D:\workspace\FGW-AMD201\amd201-co1102\microservice\react-client\obj\Debug\react-client.esproj.CoreCompileInputs.cache
 C:\Users\phian_\Desktop\Greenwich\Semester 6\AMD201\Coursework\microservice\react-client\obj\Debug\react-client.esproj.CoreCompileInputs.cache
 C:\Users\phian_\Desktop\Greenwich\Semester 6\AMD201\Coursework\COURSEWORK\microservice\react-client\obj\Debug\react-client.esproj.CoreCompileInputs.cache
+C:\Users\phian_\Desktop\Greenwich\Semester 6\AMD201\Coursework\COURSEWORK\AMD\microservice\react-client\obj\Debug\react-client.esproj.CoreCompileInputs.cache

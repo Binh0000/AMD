@@ -18,7 +18,7 @@
       ]
     },
     {
-      "UpstreamPathTemplate": "/shortener", //
+      "UpstreamPathTemplate": "/shortener", //http://localhost:8888
       "UpstreamHttpMethod": [ "Post" ],
       "DownstreamPathTemplate": "/api/Shortener",
       "DownstreamScheme": "https",
@@ -41,42 +41,5 @@
         }
       ]
     }
-    // // Mobile router
-    // {
-    //   "UpstreamPathTemplate": "/mobiles",
-    //   "UpstreamHttpMethod": [ "Get" ],
-    //   "DownstreamPathTemplate": "/api/Mobiles",
-    //   "DownstreamScheme": "https",
-    //   "DownstreamHostAndPorts": [
-    //     {
-    //       "Host": "localhost",
-    //       "Port": 5678
-    //     }
-    //   ]
-    // },
-    // {
-    //   "UpstreamPathTemplate": "/mobiles/{id}",
-    //   "UpstreamHttpMethod": [ "Get" ],
-    //   "DownstreamPathTemplate": "/api/Mobiles/{id}",
-    //   "DownstreamScheme": "https",
-    //   "DownstreamHostAndPorts": [
-    //     {
-    //       "Host": "localhost",
-    //       "Port": 5678
-    //     }
-    //   ]
-    // },
-    // {
-    //   "UpstreamPathTemplate": "/mobiles",
-    //   "UpstreamHttpMethod": [ "Post" ],
-    //   "DownstreamPathTemplate": "/api/Mobiles",
-    //   "DownstreamScheme": "https",
-    //   "DownstreamHostAndPorts": [
-    //     {
-    //       "Host": "localhost",
-    //       "Port": 5678
-    //     }
-    //   ]
-    //}
   ]
 }

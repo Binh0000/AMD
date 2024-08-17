@@ -5,6 +5,7 @@ const Url = () => {
     const api = 'http://localhost:8888/shortener';
     const [urls, setUrls] = useState([]);
     const [originalUrl, setOriginalUrl] = useState('');
+    const [customUrl, setCustomUrl] = useState('');
     const [shortenedUrl, setShortenedUrl] = useState('');
     const [error, setError] = useState(null);
 
@@ -24,9 +25,17 @@ const Url = () => {
     const handleSubmit = async (e) => {
         e.preventDefault();
         try {
-            const { data } = await axios.post(api, { originalUrl });
-            setShortenedUrl(data.shortUrl);
-            setUrls([...urls, data]);
+            if (customUrl !== null) {
+                const { data } = await axios.post(api, {originalUrl, customUrl});
+                setShortenedUrl(data.shortUrl);
+                setUrls([...urls, data]);
+            } else {
+                const empty = "";
+                const { data } = await axios.post(api, { originalUrl, empty });
+                setShortenedUrl(data.shortUrl);
+                setUrls([...urls, data]);
+            }
+            
         } catch (err) {
             setError(err.message);
         }
@@ -54,6 +63,15 @@ const Url = () => {
                                         value={originalUrl}
                                         onChange={(e) => setOriginalUrl(e.target.value)}
                                         required
+                                    />
+                                    <br></br>
+                                    <label htmlFor="customUrl" className="form-label">Enter the custom shortened url</label>
+                                    <input
+                                        type="text"
+                                        className="form-control"
+                                        id="customUrl"
+                                        onChange={(e) => setCustomUrl(e.target.value)}
+                                        value={customUrl}
                                     />
                                 </div>
                                 <button type="submit" className="btn btn-primary w-100">Shorten URL</button>
@@ -84,6 +102,8 @@ const Url = () => {
                                     ))}
                                 </tbody>
                             </table>
+
+
                         </div>
                     </div>
                 </div>

@@ -3,24 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\AMD\\microservice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{399BEBEE-7473-4F07-87B5-FAFA4BB05E25}|react-client\\react-client.esproj|c:\\users\\phian_\\desktop\\greenwich\\semester 6\\amd201\\coursework\\coursework\\amd\\microservice\\react-client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{399BEBEE-7473-4F07-87B5-FAFA4BB05E25}|react-client\\react-client.esproj|solutionrelative:react-client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{64DF590E-D21F-4CD6-8BA9-A1D7D45A8122}|Shortly\\Shortly.csproj|c:\\users\\phian_\\desktop\\greenwich\\semester 6\\amd201\\coursework\\coursework\\amd\\microservice\\shortly\\controllers\\shortenercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DF590E-D21F-4CD6-8BA9-A1D7D45A8122}|Shortly\\Shortly.csproj|solutionrelative:shortly\\controllers\\shortenercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{399BEBEE-7473-4F07-87B5-FAFA4BB05E25}|react-client\\react-client.esproj|c:\\users\\phian_\\desktop\\greenwich\\semester 6\\amd201\\coursework\\coursework\\amd\\microservice\\react-client\\src\\redirecthandler.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{399BEBEE-7473-4F07-87B5-FAFA4BB05E25}|react-client\\react-client.esproj|solutionrelative:react-client\\src\\redirecthandler.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{64DF590E-D21F-4CD6-8BA9-A1D7D45A8122}|Shortly\\Shortly.csproj|c:\\users\\phian_\\desktop\\greenwich\\semester 6\\amd201\\coursework\\coursework\\amd\\microservice\\shortly\\data\\shortlycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DF590E-D21F-4CD6-8BA9-A1D7D45A8122}|Shortly\\Shortly.csproj|solutionrelative:shortly\\data\\shortlycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{399BEBEE-7473-4F07-87B5-FAFA4BB05E25}|react-client\\react-client.esproj|c:\\users\\phian_\\desktop\\greenwich\\semester 6\\amd201\\coursework\\coursework\\amd\\microservice\\react-client\\src\\shortly.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{399BEBEE-7473-4F07-87B5-FAFA4BB05E25}|react-client\\react-client.esproj|solutionrelative:react-client\\src\\shortly.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{399BEBEE-7473-4F07-87B5-FAFA4BB05E25}|react-client\\react-client.esproj|c:\\users\\phian_\\desktop\\greenwich\\semester 6\\amd201\\coursework\\coursework\\amd\\microservice\\react-client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{399BEBEE-7473-4F07-87B5-FAFA4BB05E25}|react-client\\react-client.esproj|solutionrelative:react-client\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{2D1C1C24-F4F8-46D9-80D0-88C6DF0313FA}|api-gateway\\api_gateway.csproj|c:\\users\\phian_\\desktop\\greenwich\\semester 6\\amd201\\coursework\\coursework\\amd\\microservice\\api-gateway\\gateway.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D1C1C24-F4F8-46D9-80D0-88C6DF0313FA}|api-gateway\\api_gateway.csproj|solutionrelative:api-gateway\\gateway.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{399BEBEE-7473-4F07-87B5-FAFA4BB05E25}|react-client\\react-client.esproj|c:\\users\\phian_\\desktop\\greenwich\\semester 6\\amd201\\coursework\\coursework\\amd\\microservice\\react-client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{399BEBEE-7473-4F07-87B5-FAFA4BB05E25}|react-client\\react-client.esproj|solutionrelative:react-client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{2D1C1C24-F4F8-46D9-80D0-88C6DF0313FA}|api-gateway\\api_gateway.csproj|c:\\users\\phian_\\desktop\\greenwich\\semester 6\\amd201\\coursework\\coursework\\amd\\microservice\\api-gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D1C1C24-F4F8-46D9-80D0-88C6DF0313FA}|api-gateway\\api_gateway.csproj|solutionrelative:api-gateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ShortlyDb/True/SqlTable/dbo.Urls.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DF590E-D21F-4CD6-8BA9-A1D7D45A8122}|Shortly\\Shortly.csproj|c:\\users\\phian_\\desktop\\greenwich\\semester 6\\amd201\\coursework\\coursework\\amd\\microservice\\shortly\\models\\url.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DF590E-D21F-4CD6-8BA9-A1D7D45A8122}|Shortly\\Shortly.csproj|solutionrelative:shortly\\models\\url.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +37,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 49,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,67 +69,90 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShortlyContext.cs",
+              "DocumentMoniker": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\AMD\\microservice\\Shortly\\Data\\ShortlyContext.cs",
+              "RelativeDocumentMoniker": "Shortly\\Data\\ShortlyContext.cs",
+              "ToolTip": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\AMD\\microservice\\Shortly\\Data\\ShortlyContext.cs",
+              "RelativeToolTip": "Shortly\\Data\\ShortlyContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:47:29.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.Urls [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ShortlyDb/True/SqlTable/dbo.Urls.sql",
+              "ToolTip": "dbo.Urls [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-16T07:11:33.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Url.cs",
+              "DocumentMoniker": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\AMD\\microservice\\Shortly\\Models\\Url.cs",
+              "RelativeDocumentMoniker": "Shortly\\Models\\Url.cs",
+              "ToolTip": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\AMD\\microservice\\Shortly\\Models\\Url.cs",
+              "RelativeToolTip": "Shortly\\Models\\Url.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T07:04:51.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShortenerController.cs",
+              "DocumentMoniker": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\AMD\\microservice\\Shortly\\Controllers\\ShortenerController.cs",
+              "RelativeDocumentMoniker": "Shortly\\Controllers\\ShortenerController.cs",
+              "ToolTip": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\AMD\\microservice\\Shortly\\Controllers\\ShortenerController.cs",
+              "RelativeToolTip": "Shortly\\Controllers\\ShortenerController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T06:29:42.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "gateway.json",
+              "DocumentMoniker": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\AMD\\microservice\\api-gateway\\gateway.json",
+              "RelativeDocumentMoniker": "api-gateway\\gateway.json",
+              "ToolTip": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\AMD\\microservice\\api-gateway\\gateway.json",
+              "RelativeToolTip": "api-gateway\\gateway.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-16T06:30:21.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Shortly.jsx",
               "DocumentMoniker": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\AMD\\microservice\\react-client\\src\\Shortly.jsx",
               "RelativeDocumentMoniker": "react-client\\src\\Shortly.jsx",
               "ToolTip": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\AMD\\microservice\\react-client\\src\\Shortly.jsx",
               "RelativeToolTip": "react-client\\src\\Shortly.jsx",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAAAF4AAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-08-16T06:09:12.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RedirectHandler.jsx",
-              "DocumentMoniker": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\AMD\\microservice\\react-client\\src\\RedirectHandler.jsx",
-              "RelativeDocumentMoniker": "react-client\\src\\RedirectHandler.jsx",
-              "ToolTip": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\AMD\\microservice\\react-client\\src\\RedirectHandler.jsx",
-              "RelativeToolTip": "react-client\\src\\RedirectHandler.jsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-08-16T06:09:12.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "main.jsx",
-              "DocumentMoniker": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\AMD\\microservice\\react-client\\src\\main.jsx",
-              "RelativeDocumentMoniker": "react-client\\src\\main.jsx",
-              "ToolTip": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\AMD\\microservice\\react-client\\src\\main.jsx",
-              "RelativeToolTip": "react-client\\src\\main.jsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-08-16T06:09:11.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "index.css",
-              "DocumentMoniker": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\AMD\\microservice\\react-client\\src\\index.css",
-              "RelativeDocumentMoniker": "react-client\\src\\index.css",
-              "ToolTip": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\AMD\\microservice\\react-client\\src\\index.css",
-              "RelativeToolTip": "react-client\\src\\index.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-08-16T06:09:10.223Z",
+              "WhenOpened": "2024-08-16T06:34:18.463Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "App.jsx",
-              "DocumentMoniker": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\AMD\\microservice\\react-client\\src\\App.jsx",
-              "RelativeDocumentMoniker": "react-client\\src\\App.jsx",
-              "ToolTip": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\AMD\\microservice\\react-client\\src\\App.jsx",
-              "RelativeToolTip": "react-client\\src\\App.jsx",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-08-16T06:09:09.291Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\AMD\\microservice\\api-gateway\\Program.cs",
+              "RelativeDocumentMoniker": "api-gateway\\Program.cs",
+              "ToolTip": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\AMD\\microservice\\api-gateway\\Program.cs",
+              "RelativeToolTip": "api-gateway\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T06:19:57.236Z",
               "EditorCaption": ""
             }
           ]

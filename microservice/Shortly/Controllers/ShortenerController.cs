@@ -23,11 +23,14 @@ namespace Shortly.Controllers
         public async Task<ActionResult<Url>> Shorten([FromBody] UrlRequest urlRequest)
         {
             if (urlRequest == null || string.IsNullOrEmpty(urlRequest.OriginalUrl))
-            {
                 return BadRequest("The originalUrl field is required.");
-            }
-
-            string shortenedUrl = GenerateShortUrl();
+            
+            string shortenedUrl = "";
+            if (urlRequest.CustomUrl == null || urlRequest.CustomUrl == String.Empty)
+                shortenedUrl = GenerateShortUrl();
+            else
+                shortenedUrl = urlRequest.CustomUrl;
+            
             var url = new Url { OriginalUrl = urlRequest.OriginalUrl, ShortUrl = shortenedUrl };
             _context.Urls.Add(url);
             await _context.SaveChangesAsync();
@@ -38,6 +41,7 @@ namespace Shortly.Controllers
         public class UrlRequest
         {
             public string OriginalUrl { get; set; }
+            public string CustomUrl { get; set; } 
         }
 
 

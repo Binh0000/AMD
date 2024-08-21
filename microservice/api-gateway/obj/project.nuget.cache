@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z6knvxPXkUE=",
+  "dgSpecHash": "8WAgOSkpTSU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\microservice\\api-gateway\\api_gateway.csproj",
+  "projectFilePath": "C:\\Users\\phian_\\Desktop\\Greenwich\\Semester 6\\AMD201\\Coursework\\COURSEWORK\\AMD\\microservice\\api-gateway\\api_gateway.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\phian_\\.nuget\\packages\\cachemanager.core\\2.0.0-beta-1629\\cachemanager.core.2.0.0-beta-1629.nupkg.sha512",
     "C:\\Users\\phian_\\.nuget\\packages\\cachemanager.microsoft.extensions.configuration\\2.0.0-beta-1629\\cachemanager.microsoft.extensions.configuration.2.0.0-beta-1629.nupkg.sha512",

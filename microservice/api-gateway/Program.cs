@@ -24,7 +24,7 @@ builder.Services.AddOcelot(builder.Configuration).AddCacheManager(x =>
     x.WithDictionaryHandle();
 });
 
-//(1) config CORS  
+// config CORS  
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("CorsPolicy", builder =>
@@ -37,7 +37,7 @@ builder.Services.AddCors(options =>
 
 var app = builder.Build();
 
-//(2) enable CORS
+// enable CORS
 app.UseCors("CorsPolicy");
 
 app.UseHttpsRedirection();

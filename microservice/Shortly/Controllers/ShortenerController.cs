@@ -3,7 +3,6 @@ using Shortly.Data;
 using Shortly.Models;
 using Shortly.Repositories.Interfaces;
 using Microsoft.EntityFrameworkCore;
-using System;
 
 namespace Shortly.Controllers
 {
@@ -55,9 +54,7 @@ namespace Shortly.Controllers
                 .FirstOrDefault();
 
             if (originalUrl == null)
-            {
                 return NotFound();
-            }
 
             return Redirect(originalUrl);  // Redirect to the original URL
         }
@@ -74,26 +71,3 @@ namespace Shortly.Controllers
         }
     }
 }
-
-/*
- * old code:
-// Action to redirect to original URL
-        [HttpGet("{shortenedUrl}")]
-        public async Task<ActionResult<Url>> RedirectToOriginal(string shortenedUrl)
-        {
-            Console.WriteLine("Param: " + shortenedUrl);
-            var allUrls = await _context.Urls.ToListAsync();
-            foreach (var url in allUrls)
-            {
-                Console.WriteLine("ShortURL: " + url.ShortUrl);                
-                if (url.ShortUrl == shortenedUrl)
-                {
-                    Console.WriteLine("SUCCESS:"+url.ShortUrl);
-                    return Redirect(url.OriginalUrl);
-                }
-            }
-
-            return null;
-        }
-
- */

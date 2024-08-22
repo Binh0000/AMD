@@ -4,7 +4,6 @@
     "BaseUrl": "http://localhost:8888"
   },
   "Routes": [
-    //Url shortener router
     {
       "UpstreamPathTemplate": "/shortener", //
       "UpstreamHttpMethod": [ "Get" ],
@@ -18,7 +17,7 @@
       ]
     },
     {
-      "UpstreamPathTemplate": "/shortener", //http://localhost:8888
+      "UpstreamPathTemplate": "/shortener", 
       "UpstreamHttpMethod": [ "Post" ],
       "DownstreamPathTemplate": "/api/Shortener",
       "DownstreamScheme": "https",
@@ -30,7 +29,7 @@
       ]
     },
     {
-      "UpstreamPathTemplate": "/shortener/{shortUrl}", //
+      "UpstreamPathTemplate": "/shortener/{shortUrl}", 
       "UpstreamHttpMethod": [ "Get" ],
       "DownstreamPathTemplate": "/api/Shortener/{shortUrl}",
       "DownstreamScheme": "https",

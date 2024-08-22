@@ -102,8 +102,6 @@ const Url = () => {
                                     ))}
                                 </tbody>
                             </table>
-
-
                         </div>
                     </div>
                 </div>
